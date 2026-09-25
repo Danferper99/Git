@@ -1,1 +1,2 @@
 Estoy aprendiendo GitHub
+Esta es la segunda linea de dos.txt
