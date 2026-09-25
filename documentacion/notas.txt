@@ -1,0 +1,3 @@
+Git permite controlar las versiones de los archivos.
+Git permite guardar cambios mediante commits.
+GitHub permite subir y compartir los repositorios.
